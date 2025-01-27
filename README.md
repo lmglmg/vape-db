@@ -3,6 +3,8 @@
 `vape-db` is a temporary in-memory database with absolutely no persistence.
 Its use is to provide communication between different parts of any system (for example to enable communication between two Jenkins builds).
 
+Consult the `API.md` file for more information on how to use the API.
+
 ## Release Notes
 
 ### 0.2.0
